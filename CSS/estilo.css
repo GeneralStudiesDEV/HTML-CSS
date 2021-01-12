@@ -1,0 +1,31 @@
+#caixa{
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+
+    /* Define um redondamento para nossas caixas 
+    border-radius: 10px 50px 80px 100px;
+    -webkit-border-radius: 10px 50px 80px 100px;
+    -moz-border-radius: 10px 50px 80px 100px;
+    */
+
+    padding: 50px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+#caixa2{
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+
+    /* Define um redondamento para nossas caixas 
+    border-radius: 10px 50px 80px 100px;
+    -webkit-border-radius: 10px 50px 80px 100px;
+    -moz-border-radius: 10px 50px 80px 100px;
+    */
+    
+    
+
+}
