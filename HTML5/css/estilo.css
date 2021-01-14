@@ -9,6 +9,22 @@ nav{
     padding: 10px;
 }
 
+article{
+    background: orange;
+    padding: 10px;
+    float: left;
+}
+
+section{
+    border: 1px dotted #fff;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+aside{
+    background: blue;
+}
+
 footer{
     background-color: gray;
     text-align: center;
